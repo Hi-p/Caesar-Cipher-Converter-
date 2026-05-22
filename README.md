@@ -89,8 +89,8 @@ HELLO WORLD → KHOOR ZRUOG
 
 ```bash
 # 저장소 클론
-git clone https://github.com/Hi-p/caesar-cipher.git
-cd caesar-cipher
+git clone https://github.com/Hi-p/Caesar-Cipher-Converter-.git
+cd Caesar-Cipher-Converter-
 
 # 간단한 로컬 서버 실행 (Python 3)
 python3 -m http.server 8080
